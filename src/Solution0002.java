@@ -13,6 +13,8 @@ import java.util.Queue;
  * Populate each next pointer to point to its next right node. If there is no next right node, the next pointer should be set to NULL.
  *
  * Initially, all next pointers are set to NULL.
+ *
+ * Leetcode problem : https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
  */
 public class Solution0002 {
     public Node connect(Node root) {
@@ -42,7 +44,6 @@ public class Solution0002 {
         return root;
     }
 }
-
 
 class Node {
     public int val;
