@@ -5,7 +5,7 @@
 Class | Problem Summary |
 --- | --- |
 Solution0001 | Given a string, check if it is a palindrome by ignoring spaces. |
-Solution0002 | TBD |
+Solution0002 | Given a BT, connect the siblings of each node. |
 Solution0003 | TBD |
 Solution0004 | TBD |
 Solution0005 | TBD |
