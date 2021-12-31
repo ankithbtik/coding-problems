@@ -1,3 +1,5 @@
+package leetcode.practice;
+
 import java.util.LinkedList;
 import java.util.Queue;
 

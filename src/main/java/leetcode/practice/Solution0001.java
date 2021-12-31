@@ -1,3 +1,5 @@
+package leetcode.practice;
+
 /**
  * Given a string, check if it is a palindrome by ignoring spaces.
  * E.g. "race car" would be a palindrome.
