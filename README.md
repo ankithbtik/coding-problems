@@ -10,7 +10,7 @@ Class | Problem Summary                                                |
 [Solution0004](../master/src/main/java/leetcode/practice/Solution0004.java) | Smallest Integer Divisible by a given integer 'K'.             |
 [Solution0005](../master/src/main/java/leetcode/practice/Solution0005.java) | Print the given string in a reverse order using recursion.     |
 [Solution0006](../master/src/main/java/leetcode/practice/Solution0006.java) | Find distinct ways you can climb to the top of the stairs.     |
-Solution0007 | TBD                                                            |
+[Solution0007](../master/src/main/java/leetcode/practice/Solution0007.java) | Find the maximum amount of money you can rob tonight without alerting the police.                                                          |
 Solution0008 | TBD                                                            |
 Solution0009 | TBD                                                            |
 Solution0010 | TBD                                                            |
