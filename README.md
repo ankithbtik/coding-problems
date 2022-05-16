@@ -12,7 +12,7 @@ Class | Problem Summary                                                |
 [Solution0006](../master/src/main/java/leetcode/practice/Solution0006.java) | Find distinct ways you can climb to the top of the stairs.     |
 [Solution0007](../master/src/main/java/leetcode/practice/Solution0007.java) | Find the maximum amount of money you can rob tonight without alerting the police.                                                          |
 [Solution0008](../master/src/main/java/leetcode/practice/Solution0008.java) | Min cost climbing stairs.  |
-Solution0009 | TBD                                                            |
+[Solution0009](../master/src/main/java/leetcode/practice/Solution0009.java) | Trapping rain water.       |
 Solution0010 | TBD                                                            |
 Solution0011 | TBD                                                            |
 Solution0012 | TBD                                                            |
