@@ -16,7 +16,7 @@ Class | Problem Summary                                                |
 [Solution0010](../master/src/main/java/leetcode/practice/Solution0010.java) | Product of Array Except Self      |
 [Solution0011](../master/src/main/java/leetcode/practice/Solution0011.java) | Maximum Product Subarray          |
 [Solution0012](../master/src/main/java/leetcode/practice/Solution0012.java) | Maximum subarray sum              |
-Solution0013 | TBD                                                            |
+[Solution0013](../master/src/main/java/leetcode/practice/Solution0013.java) | Two sum                                                            |
 Solution0014 | TBD                                                            |
 Solution0015 | TBD                                                            |
 Solution0016 | TBD                                                            |
