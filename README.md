@@ -10,12 +10,12 @@ Class | Problem Summary                                                |
 [Solution0004](../master/src/main/java/leetcode/practice/Solution0004.java) | Smallest Integer Divisible by a given integer 'K'.             |
 [Solution0005](../master/src/main/java/leetcode/practice/Solution0005.java) | Print the given string in a reverse order using recursion.     |
 [Solution0006](../master/src/main/java/leetcode/practice/Solution0006.java) | Find distinct ways you can climb to the top of the stairs.     |
-[Solution0007](../master/src/main/java/leetcode/practice/Solution0007.java) | Find the maximum amount of money you can rob tonight without alerting the police.                                                          |
+[Solution0007](../master/src/main/java/leetcode/practice/Solution0007.java) | Find the maximum amount of money you can rob tonight without alerting the police. |
 [Solution0008](../master/src/main/java/leetcode/practice/Solution0008.java) | Min cost climbing stairs.  |
 [Solution0009](../master/src/main/java/leetcode/practice/Solution0009.java) | Trapping rain water.       |
 [Solution0010](../master/src/main/java/leetcode/practice/Solution0010.java) | Product of Array Except Self      |
 [Solution0011](../master/src/main/java/leetcode/practice/Solution0011.java) | Maximum Product Subarray          |
-Solution0012 | TBD                                                            |
+[Solution0012](../master/src/main/java/leetcode/practice/Solution0012.java) | Maximum subarray sum              |
 Solution0013 | TBD                                                            |
 Solution0014 | TBD                                                            |
 Solution0015 | TBD                                                            |
